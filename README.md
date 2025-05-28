@@ -1,6 +1,6 @@
 # Melodify - Modern Music Streaming Web App
 
-![Melodify]
+!Melodify
 
 A modern, responsive web application for streaming music with a beautiful dark theme UI. Built with HTML, CSS, and JavaScript, Melodify provides a seamless music listening experience with features like language filtering, infinite scrolling, and a full-featured audio player.
 
@@ -114,8 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Credits
 
-- **Developer**: HamoodHabibi
-- (https://github.com/hamoodhabibi30)
+- **Developer**: Hamood Habibi
 - **Design**: Inspired by modern music streaming platforms
 - **Icons**: Material Design Icons
 - **Fonts**: Inter (Google Fonts)
@@ -133,4 +132,5 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/hamoodhabibi30) 
+Made with ❤️ by Hamood Habibi
+(https://github.com/hamoodhabibi30) 
