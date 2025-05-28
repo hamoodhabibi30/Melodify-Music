@@ -32,7 +32,7 @@ A modern, responsive web application for streaming music with a beautiful dark t
 
 ## 🚀 Live Demo
 
-Visit the live demo: [Melodify](https://your-demo-link.com)
+Visit the live demo: [Melodify](https://melodifymusics.netlify.app/)
 
 ## 🛠️ Technologies Used
 
