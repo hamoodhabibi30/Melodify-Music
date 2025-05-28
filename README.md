@@ -1,6 +1,6 @@
 # Melodify - Modern Music Streaming Web App
 
-![Melodify](https://i.imgur.com/placeholder.png)
+![Melodify]
 
 A modern, responsive web application for streaming music with a beautiful dark theme UI. Built with HTML, CSS, and JavaScript, Melodify provides a seamless music listening experience with features like language filtering, infinite scrolling, and a full-featured audio player.
 
@@ -53,7 +53,7 @@ Visit the live demo: [Melodify](https://melodifymusics.netlify.app/)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/melodify.git
+git clone https://github.com/hamoodhabibi30/Melodify-Music.git
 ```
 
 2. Navigate to the project directory:
@@ -114,7 +114,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Credits
 
-- **Developer**: [Your Name](https://github.com/hamoodhabibi30)
+- **Developer**: HamoodHabibi
+- (https://github.com/hamoodhabibi30)
 - **Design**: Inspired by modern music streaming platforms
 - **Icons**: Material Design Icons
 - **Fonts**: Inter (Google Fonts)
